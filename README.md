@@ -16,7 +16,7 @@
 - Extract figures, tables, and charts in a paper. The output result would be image data.
 - Skill Set: ```Multiple Object Detection```, ```image processing```, ```Machine Learning```, ```python pdf parser``` and maybe some ```textual analysis```
 
-### 4. Img Paper Paragraph Segmentation (6 people a group)
+### 4. Img Paper Paragraph Segmentation (5 people a group)
 - Separate the whole image page into parts by each paragraph.
 - Segment subtitle and content in each block.
 - Skill Set: ```Image Segmentation```, ```image processing```, ```Machine Learning```, ```python pdf parser``` and maybe some ```textual analysis```
