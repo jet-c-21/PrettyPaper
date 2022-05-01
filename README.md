@@ -2,7 +2,7 @@
 
 ## Work Group
 
-### 1. Data Filter (3 people a group)
+### 1. [Data Filter](https://github.com/x65github/IF.Lab-Workshop_Data-Filter) (3 people a group)
 - Determine whether the block of data is related to the paper or not.
 - If there are any data from another paper, you have to remove them.
 - Skill Set: majority for ```textual analysis```, ```python pdf parser```, maybe some ```image processing```
