@@ -21,6 +21,6 @@
 - Segment subtitle and content in each block.
 - Skill Set: ```Image Segmentation```, ```image processing```, ```Machine Learning```, ```python pdf parser``` and maybe some ```textual analysis```
 
-### 5. OCR (3 people a group)
+### 5. OCR [records0511](https://github.com/hswang108/Paper_readingtools) (3 people a group)
 - Extract text data from image data with the OCR technique after image pre-processing.
 - Skill Set: ```OCR (Tesseract)```, ```image processing```, ```Machine Learning```, ```python pdf parser``` and maybe some ```textual analysis```
