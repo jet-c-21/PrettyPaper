@@ -1,5 +1,8 @@
 # PrettyPaper
 
+## Member Info
+- [Google Sheet](https://docs.google.com/spreadsheets/d/19VtTXhTf_y5gOp8DkMVh7sPnVNAV7gAndxmD_jNmwR4/edit?usp=sharing)
+
 ## Work Group
 
 ### 1. [Data Filter](https://github.com/x65github/IF.Lab-Workshop_Data-Filter) (3 people a group)
