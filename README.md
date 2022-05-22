@@ -15,7 +15,7 @@
 - Extract all the content beyond each subtitle.
 - Skill Set: ```textual analysis```, ```python pdf parser```
 
-### 3. [Component Object Detection] (4 people a group)
+### 3. [Component Object Detection](https://github.com/Leo90616/Side-Project-3) (4 people a group)
 - Extract figures, tables, and charts in a paper. The output result would be image data.
 - Skill Set: ```Multiple Object Detection```, ```image processing```, ```Machine Learning```, ```python pdf parser``` and maybe some ```textual analysis```
 
